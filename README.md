@@ -1,0 +1,1 @@
+Inspired by https://medium.com/@wl8380/how-markov-chains-can-decode-stock-market-patterns-f7cdede1702c from Unicorn Day I built a similar model - enhanced with indicators and k-means clustering. Contact me if you have interest in developing this further with me for a model that covers more market segments by mail. Also don´t for get to give a star :-)
